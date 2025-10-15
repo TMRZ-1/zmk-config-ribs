@@ -20,7 +20,7 @@
         numbers {
             label = "num";
             bindings = <
-&kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3    &kp NUMBER_4  &kp N5     &kp NUMBER_6      &N7             &kp N8                &kp N9  &kp N0
+&kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3    &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6   &kp NUMBER_7       &kp NUMBER_8       &kp NUMBER_9  &kp NUMBER_0
 &kp ESC       &none         &kp LEFT_SHIFT  &none         &none      &kp MINUS         &kp EQUAL          &kp GRAVE             &none   &kp SQT
 &kp TAB       &none         &none           &none         &none      &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp NON_US_BACKSLASH  &none   &none
                                             &kp LGUI      &kp SPACE  &kp RSHIFT        &kp BACKSPACE &kp SPACE &kp SPACE
